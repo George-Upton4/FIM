@@ -16,26 +16,11 @@ Developed a File Integrity Monitor program, providing users with the capability 
 <h2>Lab walk-through:</h2>
 
 <p align="center"> 
-Network Diagram: <br/>
-<img src="https://github.com/George-Upton4/ActiveDirectoryLab/blob/main/media/Network_Diagram.drawio.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Program outcome: <br/>
+<img src="https://github.com/George-Upton4/FIM/blob/main/Media/Output.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creation of 1k new users: <br/>
-<img src="https://github.com/George-Upton4/ActiveDirectoryLab/blob/main/media/Script%20for%20creating%20users.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-List of new users created: <br />
-<img src="https://github.com/George-Upton4/ActiveDirectoryLab/blob/main/media/Proof%20of%20new%20users.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Signing into a user from a client machine: <br />
-<img src="https://github.com/George-Upton4/ActiveDirectoryLab/blob/main/media/Proof%20of%20client%20on%20network.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Proof of client connection in active directory: <br />
-<img src="https://github.com/George-Upton4/ActiveDirectoryLab/blob/main/media/Proof%20of%20lease.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 <!--
  ```diff
